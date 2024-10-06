@@ -1,5 +1,4 @@
 
-/* Saxat från tidigare inlämningsuppggiftskod START */
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 
 :root {
@@ -23,7 +22,7 @@
     --clr-text-heading: var(--clr-gray-900);
     --clr-text-navigation: var(--clr-gray-800);
 
-    /* Broder radius-es */
+    /* Broder radius */
 
     --br-m: 0.375em;
     --br-1: 0.5em;
@@ -189,7 +188,7 @@ main {
 
 
 
-/* LOL! Nedan */
+/* Nedan: */
 /* .header img:nth-child(3) {
     position: absolute;
     top: 0;
@@ -254,5 +253,4 @@ padding: 0;
 margin: 0;
 } */
 
-/* Saxat från tidigare inlämningskod END */
 
